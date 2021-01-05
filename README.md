@@ -2,7 +2,7 @@
 A boiler-plate file for my embedded system projects. Created by 🐏 @Peltogle 🐏 [(my website)](http://peltogle.com)
 
 ## What & Why?
-This is a boiler-plate file that allows me to quickly establish preliminary two-way communication with most Arudino based boards. This boiler-plate assumes that two servos, a multi-color LED, a PSB, a BNO055 module, and a BMP280 module are connected to the microcontroller. More information and functionality will be added to this repo as I further test this project on other components and more boards.
+This is a boiler-plate file that allows me to quickly establish preliminary two-way communication with most Arduino based boards. This boiler-plate assumes that two servos, a multi-color LED, a PSB, a BNO055 module, and a BMP280 module are connected to the microcontroller. More information and functionality will be added to this repo as I further test this project on other components and more boards.
 
 ## Pin Definitions
 Pin | Definition
@@ -14,5 +14,7 @@ Pin | Definition
 **Solved issues will be checked off**
 - [ ] Library files and other important secondary files are missing.
 - [ ] Depending on pin setup the BMP280 or BNO055 modules may not work correctly.
-- [ ] Sea-level is hardcoded in and needs to be changed manually, will soon revert to my other APIs to fix this.
-If you happen to actually use this boiler-plate and want to report issues or make feature requests, please use GitHub's built in bug tracker.
+- [ ] Some variables are hard-coded that should not be. I will be using one of my previous projects to fix this.
+
+### Fixing Regressions & Requesting Features
+If you happen to actually use this boiler-plate and want to report issues or make feature requests, please use GitHub's built in bug tracker. Keep in mind that there is more to this boiler-plate that has yet to be released due to the need for me to actually whip out a bunch of my Arduino based boards and testing this boiler-plate on them.
