@@ -1,8 +1,8 @@
 # es_baseline
-A boiler-plate file for my embedded system projects. Created by 🐏 @Peltogle 🐏 [(my website)](http://peltogle.com)
+A boiler-plate for my embedded system projects. Created by 🐏 @Peltogle 🐏 [(my website)](http://peltogle.com)
 
 ## What & Why?
-This is a boiler-plate file that allows me to quickly establish preliminary two-way communication with most Arduino based boards. This boiler-plate assumes that two servos, a multi-color LED, a PSB, a BNO055 module, and a BMP280 module are connected to the microcontroller. More information and functionality will be added to this repo as I further test this project on other components and more boards.
+This is a boiler-plate that allows one to quickly establish preliminary two-way communication with most Arduino based boards. This boiler-plate assumes that two servos, a multi-color LED, a PSB, a BNO055 module, and a BMP280 module are connected to the microcontroller (more components later). More information and functionality will be added to this boiler-plate as I further test this project on other components and more boards.
 
 ## Pin Definitions
 Pin | Definition
