@@ -253,4 +253,4 @@ void setup() {
   powerDown();
 }
 
-void loop() {}
+void loop() {} // Don't use loop
